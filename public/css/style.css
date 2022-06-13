@@ -8,8 +8,9 @@ body{
     background-color: rgba(230, 20, 20, 0.733);
     width: 550px;
     height: 590px;
-    margin: 0 auto;
+    margin:  120px auto;
     border: solid black 1px;
+    border-radius: 20px;
     background: linear-gradient(to top, red, white);
 }
 
