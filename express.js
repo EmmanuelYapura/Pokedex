@@ -13,7 +13,7 @@ app.get('*', (req,res) => {
     res.send(`La ruta ${url} metodo ${method} no esta implementada`);
 });
 
-const PORT = 8080;
+const PORT = process.env.PORT || 8080;
 
 app.listen(PORT, () => {
     console.log(`Servidor express escuchando en el puerto ${PORT}`)
