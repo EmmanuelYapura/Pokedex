@@ -42,4 +42,4 @@ http://localhost:8080/
 
 ## Autores
 
-*Emmanuel Yapura - Trabajo inicial - links github y linkedin*
+*[Emmanuel Yapura](https://www.linkedin.com/in/emmanuelyapura/) - Trabajo inicial *
